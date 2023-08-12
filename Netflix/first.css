@@ -14,7 +14,7 @@ body {
 }
 
 .dropdown {
-  background-color: black;
+  background-color: rgb(24, 24, 24);
   padding: 8px;
   border-radius: 4px;
   width: 100px;
